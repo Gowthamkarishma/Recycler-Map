@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Anna Nagar, Madurai, Tamilnadu",
+    "location_image": "https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/",
+    "latitude": "9.939093",
+    "longitude": "78.121719"
+  },
+  {
+    "name": "KK Nagar, Madurai, Tamilnadu",
+    "location_image": "https://fakeimg.pl/250x100/ff0000/",
+    "latitude": "9.931493",
+    "longitude": "78.148052"
+  },
+  {
+    "name": "Poriyalar Nagar, Madurai, Tamilnadu",
+    "location_image": "https://fakeimg.pl/350x200/ff0000%2C128/000%2C255/",
+    "latitude": "9.982051",
+    "longitude": "78.143131"
+  },
+  {
+    "name": "Thiruppalai, Madurai, Tamilnadu",
+    "location_image": "https://fakeimg.pl/350x200/ff0000/000/",
+    "latitude": "9.980735",
+    "longitude": "78.146273"
+  },
+  {
+    "name": "Vandiyur, Madurai, Tamilnadu",
+    "location_image": "https://fakeimg.pl/350x200/?text=Hello",
+    "latitude": "9.910325",
+    "longitude": "78.159818"
+  },
+  {
+    "name": "Alagar Kovil, Madurai, Tamilnadu",
+    "location_image": "https://fakeimg.pl/350x200/?text=World&font=lobster",
+    "latitude": "10.074624",
+    "longitude": "78.213187"
+  },
+  {
+    "name": "Periyar Bus Stand, Madurai, Tamilnadu",
+    "location_image": "https://fakeimg.pl/300/",
+    "latitude": "9.915689",
+    "longitude": "78.112268"
+  }
+]
